@@ -9,9 +9,9 @@
   // Politeknik Elektronika Negeri Surabaya © 2024
 
 
-#define BLYNK_TEMPLATE_ID "TMPL6_e4tGMH3"
-#define BLYNK_TEMPLATE_NAME "EnergyIOT"
-#define BLYNK_AUTH_TOKEN "AQTwdx4wQOEk40391gl3MVX_thG4iYFd"
+#define BLYNK_TEMPLATE_ID " Your Template ID "
+#define BLYNK_TEMPLATE_NAME " Yout Template Name"
+#define BLYNK_AUTH_TOKEN " Your Auth Token "
 
 #include <ESP8266WiFi.h>
 #include <WiFiManager.h>
