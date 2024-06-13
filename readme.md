@@ -4,8 +4,6 @@
 
 Repository ini adalah dukumentasi dan program dari Projek Energy Monitoring Projek Final Komunikasi Data
 
-> [!IMPORTANT]
--
 ---
 
 ## Repository Structures
@@ -35,6 +33,8 @@ Terima kasih
 
 ## Contributor
 
+<a href="https://github.com/tribone23/EnergyMonitor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tribone23/EnergyMonitor" />
+</a>
 
-Made with [contrib.rocks](https://contrib.rocks).
 
